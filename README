@@ -1,0 +1,7 @@
+
+==[ x86Lisp ]==
+
+A lisp interpreter embedded in a 2.1KB `.exe' file.
+
+Uses a similar dialect to `https://github.com/kspalaiologos/malbolge-lisp', please check this repository's
+README for a description and an overview of primitives. Dot commands do not work in this version.
